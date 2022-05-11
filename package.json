@@ -4,6 +4,7 @@
 	"description": "FreeCodeCamp Add a Description to Your package.json",
 	"keywords": ["freecodecamp", "practice", "package.json", "test"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
